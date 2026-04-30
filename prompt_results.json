@@ -1,0 +1,142 @@
+[
+    {
+        "question": "Who proposed the theory of evolution by natural selection?",
+        "real": "darwin",
+        "direct": "Who proposed the theory of evolution by natural selection?",
+        "structured": "Question: Who proposed the theory of evolution by natural selection?\nAnswer:\nDarwin",
+        "explain": "Answer the question and explain briefly:\nQuestion: Who proposed the theory of evolution by natural selection?\nAnswer:"
+    },
+    {
+        "question": "Each specific polypeptide has a unique linear sequence of which acids?",
+        "real": "amino",
+        "direct": "Each specific polypeptide has a unique linear sequence of which acids?",
+        "structured": "Question: Each specific polypeptide has a unique linear sequence of which acids?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: Each specific polypeptide has a unique linear sequence of which acids?\nAnswer:\n\"\n\"\n\n\"\n-\n-"
+    },
+    {
+        "question": "A frameshift mutation is a deletion or insertion of one or more of what that changes the reading frame of the base sequence?",
+        "real": "nucleotides",
+        "direct": "A frameshift mutation is a deletion or insertion of one or more of what that changes the reading frame of the base sequence?",
+        "structured": "Question: A frameshift mutation is a deletion or insertion of one or more of what that changes the reading frame of the base sequence?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: A frameshift mutation is a deletion or insertion of one or more of what that changes the reading frame of the base sequence?\nAnswer:"
+    },
+    {
+        "question": "What is an area of land called that is wet for all or part of the year?",
+        "real": "wetland",
+        "direct": "What is an area of land called that is wet for all or part of the year?\nA lot of the land is wet for all or part of the year?\n",
+        "structured": "Question: What is an area of land called that is wet for all or part of the year?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: What is an area of land called that is wet for all or part of the year?\nAnswer:\n"
+    },
+    {
+        "question": "Surface waters are heated by the radiation from?",
+        "real": "the sun",
+        "direct": "Surface waters are heated by the radiation from?\nA",
+        "structured": "Question: Surface waters are heated by the radiation from?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: Surface waters are heated by the radiation from?\nAnswer:\nNo.\nIf the surface is not heated, the heat from the radiation is not due to the heat from the radiation from the radiation."
+    },
+    {
+        "question": "What are arteries, veins, and capillaries examples of?",
+        "real": "blood vessels",
+        "direct": "What are arteries, veins, and capillaries examples of?",
+        "structured": "Question: What are arteries, veins, and capillaries examples of?\nAnswer:\nA few common arteries are arteries; a few arteries are veins; a few arteries are veins; a few arteries are veins; a few arteries are veins; a few arteries are veins; a few arteries are veins; a few arteries are veins;",
+        "explain": "Answer the question and explain briefly:\nQuestion: What are arteries, veins, and capillaries examples of?\nAnswer:\nAnswer"
+    },
+    {
+        "question": "Biochemical reactions of metabolism include what two general categories?",
+        "real": "catabolic and anabolic",
+        "direct": "Biochemical reactions of metabolism include what two general categories?\n\n\n\n\n\n\n",
+        "structured": "Question: Biochemical reactions of metabolism include what two general categories?\nAnswer:\n\u2022\n\u2022",
+        "explain": "Answer the question and explain briefly:\nQuestion: Biochemical reactions of metabolism include what two general categories?\nAnswer: an enzyme is the enzyme responsible for the uptake of the enzyme."
+    },
+    {
+        "question": "Compounds with aluminum and silicon are commonly found in the clay fractions of soils derived from what?",
+        "real": "volcanic ash",
+        "direct": "Compounds with aluminum and silicon are commonly found in the clay fractions of soils derived from what?\n\nAnswer",
+        "structured": "Question: Compounds with aluminum and silicon are commonly found in the clay fractions of soils derived from what?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: Compounds with aluminum and silicon are commonly found in the clay fractions of soils derived from what?\nAnswer: They are not\n("
+    },
+    {
+        "question": "What organ has four major regions: the cerebrum, the diencephalon, the stem, and the cerebellum?",
+        "real": "brain",
+        "direct": "What organ has four major regions: the cerebrum, the diencephalon, the stem, and the cerebellum?",
+        "structured": "Question: What organ has four major regions: the cerebrum, the diencephalon, the stem, and the cerebellum?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: What organ has four major regions: the cerebrum, the diencephalon, the stem, and the cerebellum?\nAnswer:"
+    },
+    {
+        "question": "What can refer to a rope in a particular shape and a genetic structure involved in splicing?",
+        "real": "lariat",
+        "direct": "What can refer to a rope in a particular shape and a genetic structure involved in splicing?\n\n\n",
+        "structured": "Question: What can refer to a rope in a particular shape and a genetic structure involved in splicing?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: What can refer to a rope in a particular shape and a genetic structure involved in splicing?\nAnswer:"
+    },
+    {
+        "question": "What is the ratio of the mass of an object to its volume?",
+        "real": "density",
+        "direct": "What is the ratio of the mass of an object to its volume? The term \"mass\" is a term that is an object of the mass of an object to its volume?",
+        "structured": "Question: What is the ratio of the mass of an object to its volume?\nAnswer:\nThe mass of an object is the volume. The mass of an object is the volume.",
+        "explain": "Answer the question and explain briefly:\nQuestion: What is the ratio of the mass of an object to its volume?\nAnswer:\nAt any given time, the mass of an object is the mass of an object, or the mass of a sphere that does not exist."
+    },
+    {
+        "question": "What is the most common type of anemia?",
+        "real": "iron-def",
+        "direct": "What is the most common type of anemia?",
+        "structured": "Question: What is the most common type of anemia?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: What is the most common type of anemia?\nAnswer: The type is the type that causes or causes anemia?"
+    },
+    {
+        "question": "What stimulates milk production in mammals?",
+        "real": "prolactin",
+        "direct": "What stimulates milk production in mammals?",
+        "structured": "Question: What stimulates milk production in mammals?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: What stimulates milk production in mammals?\nAnswer:"
+    },
+    {
+        "question": "During telophase , the chromosomes begin to uncoil and form what?",
+        "real": "chromatin",
+        "direct": "During telophase , the chromosomes begin to uncoil and form what?",
+        "structured": "Question: During telophase , the chromosomes begin to uncoil and form what?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: During telophase , the chromosomes begin to uncoil and form what?\nAnswer:"
+    },
+    {
+        "question": "The science dealing with the study of the atmosphere is known as what?",
+        "real": "meteorology",
+        "direct": "The science dealing with the study of the atmosphere is known as what? Well, you can see that the atmosphere varies with the temperature and the atmosphere reacts with the atmosphere. But that is not the case.",
+        "structured": "Question: The science dealing with the study of the atmosphere is known as what?\nAnswer: the atmosphere has a temperature of",
+        "explain": "Answer the question and explain briefly:\nQuestion: The science dealing with the study of the atmosphere is known as what?\nAnswer:\nEarth is the atmosphere?\nAnswer:\nEarth is the atmosphere"
+    },
+    {
+        "question": "On what basis are the eras of the phanerozoic eon separated?",
+        "real": "mass extinctions",
+        "direct": "On what basis are the eras of the phanerozoic eon separated?",
+        "structured": "Question: On what basis are the eras of the phanerozoic eon separated?\nAnswer: The first phanerozoic eon was in the 13th century",
+        "explain": "Answer the question and explain briefly:\nQuestion: On what basis are the eras of the phanerozoic eon separated?\nAnswer: Phanerozoic eon. The Phanerozoic eon is thought of as the \"phanerozoic eon\" since it is the phanerozoic eon having the same phanerozoic e"
+    },
+    {
+        "question": "What type of response is generated when a stimulus is received by the nervous system?",
+        "real": "a motor response",
+        "direct": "What type of response is generated when a stimulus is received by the nervous system?\n\n\n",
+        "structured": "Question: What type of response is generated when a stimulus is received by the nervous system?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: What type of response is generated when a stimulus is received by the nervous system?\nAnswer:\n"
+    },
+    {
+        "question": "Fluid in the pseudocoelom serves as a hydrostatic what?",
+        "real": "skeleton",
+        "direct": "Fluid in the pseudocoelom serves as a hydrostatic what?",
+        "structured": "Question: Fluid in the pseudocoelom serves as a hydrostatic what?\nAnswer:\nFluid in the pseudocoelom is a hydrostatic what?",
+        "explain": "Answer the question and explain briefly:\nQuestion: Fluid in the pseudocoelom serves as a hydrostatic what?\nAnswer:"
+    },
+    {
+        "question": "How will global warming eliminate some islands and reduce the area of others?",
+        "real": "raise sea levels",
+        "direct": "How will global warming eliminate some islands and reduce the area of others?",
+        "structured": "Question: How will global warming eliminate some islands and reduce the area of others?\nAnswer:",
+        "explain": "Answer the question and explain briefly:\nQuestion: How will global warming eliminate some islands and reduce the area of others?\nAnswer: The answer is:"
+    },
+    {
+        "question": "What is the term for the secretion of saliva?",
+        "real": "salivation",
+        "direct": "What is the term for the secretion of saliva?\n\n\nIn the",
+        "structured": "Question: What is the term for the secretion of saliva?\nAnswer:\ns",
+        "explain": "Answer the question and explain briefly:\nQuestion: What is the term for the secretion of saliva?\nAnswer:\nAnswer:\nAnswer:"
+    }
+]
